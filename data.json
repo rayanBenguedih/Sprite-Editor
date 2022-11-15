@@ -1,0 +1,16 @@
+{
+    "hair": {
+        "iter": [
+            ["Basic_hair", "Curled_hair", "Messy_hair", "Straight_Hair", "Wavy_hair"], 
+            ["Back_hair", "Bangs"]
+        ], 
+        "path": "Evelyn/Hair/{0}/{1}/"
+    }, 
+    "tools": {
+        "iter": [
+            ["select", "offset"],
+            ["down", "up", "cursor"]
+        ],
+        "path": "tools/{0}/{1}/"
+    }
+}
